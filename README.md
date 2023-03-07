@@ -1,5 +1,5 @@
 # c-horses
 C horses
-Team Lead: Wyatt Morris
-Version: 0.2
+Team Lead: Down with king wyatt
+Version: 0.3
 we c horses
